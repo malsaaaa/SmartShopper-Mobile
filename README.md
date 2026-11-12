@@ -175,7 +175,7 @@ Price data is collected from public retailer storefronts for **academic research
 
 ## Acknowledgements
 
-Thanks to my supervisor, [Supervisor name], and to [University name] for supporting this project.
+Thanks to my supervisor, Mohd Hafidz bin Rahmat, and to UiTM for supporting this project.
 
 ## License
 
