@@ -179,4 +179,6 @@ Thanks to my supervisor, Mohd Hafidz bin Rahmat, and to UiTM for supporting this
 
 ## License
 
-Add a license (for example MIT) and a `LICENSE` file. Until then, all rights are reserved by the author.
+Copyright (c) 2026 malsaaaa. All rights reserved.
+
+This repository is public for viewing and portfolio purposes. No license is granted to copy, modify, distribute or use the code without the author's written permission.
