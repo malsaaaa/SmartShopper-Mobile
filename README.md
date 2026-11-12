@@ -8,9 +8,26 @@ SmartShopper is a Flutter mobile app backed by Firebase. Instead of comparing si
 > Bachelor's degree project, UiTM Campus Jasin, CDCS251, 2026.
 > Supervisor: Mohd Hafidz bin Rahmat
 
-<p align="center">
-  <img src="docs/screenshots/home.png" alt="SmartShopper home screen" width="280">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/home.png" alt="Home screen" width="200"><br>
+      <em>Home</em>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/search.png" alt="Search screen" width="200"><br>
+      <em>Search</em>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/budget.png" alt="Budget screen" width="200"><br>
+      <em>Budget</em>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/profile.png" alt="Profile screen" width="200"><br>
+      <em>Profile</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
