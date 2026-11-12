@@ -8,7 +8,7 @@ SmartShopper is a Flutter mobile app backed by Firebase. Instead of comparing si
 > Bachelor's degree project, UiTM Campus Jasin, CDCS251, 2026.
 > Supervisor: Mohd Hafidz bin Rahmat
 
-![Home](docs/screenshots/home.png)
+![Home](docs/screenshots/home.jpg)
 
 ---
 
